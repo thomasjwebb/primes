@@ -1,0 +1,3 @@
+/Users/pinkboi/src/interviews/primes/build/CMakeFiles/primes.dir
+/Users/pinkboi/src/interviews/primes/build/CMakeFiles/ALL_BUILD.dir
+/Users/pinkboi/src/interviews/primes/build/CMakeFiles/ZERO_CHECK.dir
